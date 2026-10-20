@@ -1,4 +1,4 @@
-#!/home/akacpere/Projects/Python_modules/05_bis/.venv/bin/python3
+#!/home/aleks/42_projects/Python_modules/05_bis/.venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
